@@ -18,6 +18,7 @@ The dataset used contains the following columns:
 * release_date: Release date of the movie.
 * vote_average: Average vote score.
 * vote_count: Number of votes.
+
 How It Works
 * Data Preprocessing: The dataset is preprocessed to create a combined tags column containing both the overview and genres of the movies.
 * Vectorization: The tags column is vectorized using CountVectorizer to create a feature matrix.
