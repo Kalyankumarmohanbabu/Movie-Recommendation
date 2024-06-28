@@ -55,6 +55,4 @@ Get Recommendations: Click the "Recommend" button to see a list of recommended m
 Contributions
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
